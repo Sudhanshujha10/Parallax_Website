@@ -32,13 +32,13 @@
     transform: translateZ(-1px) scale(2);
 }
 .bg-1{
-    background: url("/orange.jpg") center / cover;
+    background: url("orange.jpg") center / cover;
 }
 .bg-2{
-    background: url("/lemon.jpg") center / cover;
+    background: url("lemon.jpg") center / cover;
 }
 .bg-3{
-    background: url("/apple.jpg") center / cover;
+    background: url("apple.jpg") center / cover;
 }
 .normal{
    width: 100%;
